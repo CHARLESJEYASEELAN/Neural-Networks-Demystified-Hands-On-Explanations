@@ -22,7 +22,7 @@ Welcome to **Neural Networks Demystified**! This repository is a collection of e
 10. Attention Network: NLP seq2seq on toy data.
 
 ## How to Use
-1. Clone the repo: `git clone https://github.com/yourusername/neural-networks-demystified.git`
+1. Clone the repo: `git clone https://github.com/CHARLESJEYASEELAN/neural-networks-demystified.git`
 2. Open in Jupyter: `jupyter notebook` or use VS Code/Colab.
 3. Run each notebook—experiments are lightweight and should train quickly on standard hardware (e.g., RTX 4060).
 
