@@ -23,16 +23,13 @@ Welcome to **Neural Networks Demystified**! This repository is a collection of e
 
 ## How to Use
 1. Clone the repo: `git clone https://github.com/yourusername/neural-networks-demystified.git`
-2. Install requirements: `pip install -r requirements.txt` (includes TensorFlow, NumPy, Matplotlib, Scikit-learn).
-3. Open in Jupyter: `jupyter notebook` or use VS Code/Colab.
-4. Run each notebook—experiments are lightweight and should train quickly on standard hardware (e.g., RTX 4060).
+2. Open in Jupyter: `jupyter notebook` or use VS Code/Colab.
+3. Run each notebook—experiments are lightweight and should train quickly on standard hardware (e.g., RTX 4060).
 
 ## Requirements
 - Python 3.8+
 - TensorFlow 2.x
 - NumPy, Matplotlib, Scikit-learn (for datasets and viz)
-
-See `requirements.txt` for exact versions.
 
 ## Contributing
 Feedback or PRs welcome! If you spot issues or want to add networks, open an issue.
