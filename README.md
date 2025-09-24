@@ -11,7 +11,7 @@ Welcome to **Neural Networks Demystified**! This repository is a collection of e
 
 
 1. Perceptron_Explained.ipynb: Binary classification on Iris subset.
-2. Feed_Forward_Explained.ipynb: Regression on Boston Housing.
+2. Feed_Forward_Explained.ipynb: Regression on California Housing.
 3. Deep_Feed_Forward_Explained.ipynb: Multi-class classification on MNIST.
 4. LSTM_Explained.ipynb: Sequence classification on IMDB sentiment.
 5. GRU_Explained.ipynb: Time series prediction on synthetic sine wave.
